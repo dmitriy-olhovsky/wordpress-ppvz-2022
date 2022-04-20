@@ -1,0 +1,6 @@
+node_modules
+backups-dup-lite
+debug.log
+vendor
+
+wp-config.php
